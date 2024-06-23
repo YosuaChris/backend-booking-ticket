@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://testingsaja:109230HKJHdaksjdhaisDSK@atlascluster.bu2nq1m.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster', {
+mongoose.connect('ENTER YOUR URL HERE', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
